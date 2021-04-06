@@ -1,0 +1,15 @@
+[{
+"processingOrgId": 90500,
+"firmId": 90501	
+"streetTransactionType":3,	
+"cash":[{
+	"tradedate": "20200827",
+	"creditDebitFlag": 2
+	}],
+"security":[{  
+	    "tradedate":"20200623",
+	    "unitType" : 1
+	   }],
+"auditUserId": 160
+
+}]
